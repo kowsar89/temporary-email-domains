@@ -1,5 +1,68 @@
-{	
-	"10minutemail.net":["kloap.com"],
-	"guerrillamail.com":["sharklasers.com", "grr.la", "guerrillamail.biz", "guerrillamail.com", "guerrillamail.de", "guerrillamail.net", "guerrillamail.org", "guerrillamailblock.com", "spam4.me"],
-	"throwawaymail.com":["thrma.com"]
+{
+    "10minutemail.net": [
+        "kloap.com"
+    ],
+    "getairmail.com": [
+        "boximail.com",
+        "getairmail.com",
+        "imgof.com",
+        "zetmail.com"
+    ],
+    "guerrillamail.com": [
+        "grr.la",
+        "guerrillamail.biz",
+        "guerrillamail.com",
+        "guerrillamail.de",
+        "guerrillamail.net",
+        "guerrillamail.org",
+        "guerrillamailblock.com",
+        "sharklasers.com",
+        "spam4.me"
+    ],
+    "mailinator.com": [
+        "chammy.info",
+        "letthemeatspam.com",
+        "mailinater.com",
+        "mailinator.com",
+        "mailinator.net",
+        "mailinator2.com",
+        "sogetthis.com",
+        "spambooger.com",
+        "spamthisplease.com",
+        "thisisnotmyrealemail.com"
+    ],
+    "mytemp.email": [
+        "cx.de-a.org",
+        "domforfb4.tk",
+        "dw.now.im",
+        "dx.ez.lv",
+        "dx.sly.io",
+        "email.cbes.net",
+        "est.une.victime.ninja",
+        "go.irc.so",
+        "maildx.com",
+        "mailed.ro",
+        "mailfs.com",
+        "mor19.uu.gl",
+        "my.efxs.ca",
+        "po.bot.nu",
+        "puk.us.to",
+        "rr.ccs.pl",
+        "sr.ro.lt",
+        "vp.ycare.de",
+        "wovz.cu.cc",
+        "xing886.uu.gl",
+        "xww.ro",
+        "xww.ro",
+        "ywoe@mailed.ro",
+        "ze.gally.jp"
+    ],
+    "temp-mail.org": [
+        "mailzi.ru",
+        "vkcode.ru",
+        "yhg.biz"
+    ],
+    "throwawaymail.com": [
+        "thrma.com"
+    ]
 }

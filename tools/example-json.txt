@@ -1,0 +1,6 @@
+{	
+	"10minutemail.net":["kloap.com"],
+	"guerrillamail.com":["sharklasers.com", "grr.la", "guerrillamail.biz", "guerrillamail.com", "guerrillamail.de", "guerrillamail.net", "guerrillamail.org", "guerrillamailblock.com", "spam4.me"],
+	"mytemp.email":["cx.de-a.org", "domforfb4.tk", "dw.now.im", "dx.ez.lv", "dx.sly.io", "email.cbes.net", "est.une.victime.ninja", "go.irc.so", "maildx.com", "mailed.ro", "mailfs.com", "mor19.uu.gl", "my.efxs.ca", "po.bot.nu", "puk.us.to", "rr.ccs.pl", "sr.ro.lt", "vp.ycare.de", "wovz.cu.cc", "xing886.uu.gl", "xww.ro", "xww.ro", "ywoe@mailed.ro", "ze.gally.jp"],
+	"throwawaymail.com":["thrma.com"]
+}
